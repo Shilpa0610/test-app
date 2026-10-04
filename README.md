@@ -17,7 +17,7 @@
  **Request:** Analyze the GitHub repository Shilpa0610/test-app on the main branch. Read all files comprehensively (source code, configs, dependency manifests, scripts, Dockerfiles, CI files, tests, existing docs). Generate a comprehensive README.md that includes: project overview, setup instructions, usage examples, file structure, tech stack, prerequisites, configuration reference, testing details, Docker/deployment information, CI/CD pipeline explanation, API reference, development guidelines, and troubleshooting.
  
  **Adjustments:** 
- - Use the exact commands, versions, ports, and paths found in the repository without fabrication
+ - Use the exact commands, versions, ports, and paths found in the repository without any fabrication
  - Include multiple usage examples with actual request/response samples
  - Provide copy-paste ready commands and code snippets
  - Organize content with clear hierarchical structure using proper Markdown
